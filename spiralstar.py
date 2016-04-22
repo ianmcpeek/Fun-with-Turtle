@@ -8,6 +8,7 @@ snappy.speed(20)
 snappy.pendown()
 length = 200
 degree = 144
+x = 0
 while x < 10: 
 	for i in range(5): 
 		snappy.forward(length)
