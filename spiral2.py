@@ -16,4 +16,4 @@ while x < 400:
 	snappy.forward(50 + x)
 	snappy.right(90.911)
 	x = x+1 
-	wn.mainloop()
+wn.mainloop()
