@@ -14,4 +14,5 @@ while x < 10:
 		snappy.forward(length)
 		snappy.right(degree)
 	snappy.right(360/10) 
+	x += 1
 wn.mainloop()
