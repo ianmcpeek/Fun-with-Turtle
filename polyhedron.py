@@ -4,7 +4,6 @@ import random
 wn = turtle.Screen()
 name = "Ian"
 wn.bgcolor("lightblue")
-wn.title(name + "'s Coding Dojo Python Turtle Course")
 snappy = turtle.Turtle()
 snappy.speed(20)
 x = 0
@@ -27,4 +26,4 @@ while x < 18:
 
     snappy.right(20) 
     x = x+1 # adds 1 to the value of x,
-wn.mainloop()
+wn.exitonclick()
