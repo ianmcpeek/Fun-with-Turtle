@@ -3,7 +3,6 @@ import random
 wn = turtle.Screen()
 name = "Ian"
 wn.bgcolor("lightblue")
-wn.title(name + "'s Coding Dojo Python Turtle Course")
 snappy = turtle.Turtle()
 snappy.speed(20)
 snappy.color("red")
